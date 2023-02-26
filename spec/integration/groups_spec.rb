@@ -7,11 +7,11 @@ RSpec.describe 'Groups', type: :system, js: true do
       sign_in @user
 
       @test_group = Group.create([
-                     { author: @user, name: 'Entertainment',
-                       icon: 'https://www.flaticon.com/svg/static/icons/svg/3144/3144456.svg' },
-                     { author: @user, name: 'Appliances', icon: 'https://www.flaticon.com/svg/static/icons/svg/3144/3144456.svg' }
-                   ])
-  
+                                   { author: @user, name: 'Entertainment',
+                                     icon: 'https://www.flaticon.com/svg/static/icons/svg/3144/3144456.svg' },
+                                   { author: @user, name: 'Appliances', icon: 'https://www.flaticon.com/svg/static/icons/svg/3144/3144456.svg' }
+                                 ])
+
       visit groups_path
     end
 
