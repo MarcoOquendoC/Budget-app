@@ -89,7 +89,7 @@
 <!-- Project Documentation -->
 ## 📽️ Project Doocumentation <a name="documentation"></a>
 
-Here is a link to the video [documentation]() of the project.
+Here is a link to the video [documentation](https://www.loom.com/share/86366f22126d4136ad32036b45bae0de) of the project.
 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
