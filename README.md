@@ -195,6 +195,7 @@ Give a ⭐️ if you like this project!
 
 I would like to thank:
 - [Diego García](https://github.com/taldr27)
+- [Danys Linares](https://github.com/d4nQw3rty/)
 - [Michael Mesfin](https://github.com/michael-duke)
 
 - Under the the [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/)
