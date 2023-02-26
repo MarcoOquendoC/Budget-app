@@ -94,7 +94,7 @@ Here is a link to the video [documentation]() of the project.
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Smart Budget]()
+- [Smart Budget](https://budgettest.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,9 +131,9 @@ Install this project with:
 Create Database (Mandatory)
 
 ```
-rails db:create
-rails db:migrate
-rails db:seed
+  rails db:create
+  rails db:migrate
+  rails db:seed
 ```
 
 ### Usage <a name="usage"></a>
@@ -146,9 +146,9 @@ To run the project, execute the following command:
 
 ### Run tests <a name="run-tests"></a>
 ```
-rails db:migrate RAILS_ENV=test
-rails db:seed RAILS_ENV=test
-rspec
+  rails db:migrate RAILS_ENV=test
+  rails db:seed RAILS_ENV=test
+  rspec
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +194,8 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank:
-- [Michael Mesfin](https://github.com/michael-duke) 
+- [Diego García](https://github.com/taldr27)
+- [Michael Mesfin](https://github.com/michael-duke)
 
 - Under the the [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/)
 
