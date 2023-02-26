@@ -1,0 +1,16 @@
+<% content_for :title, 'Smart Budget' %>
+<div class="fixed top-0 right-0 left-0 flex justify-center items-center">
+  <%= image_tag "logo.svg", class: 'md:max-w-md w-20 mt-4' %>
+  <span class="h-6 text-[2.5rem] px-2 text-text">Smart-Budget</span>
+</div>
+
+<%= image_tag "logo.svg", class: 'md:max-w-md self-center animate-pulse' %>
+
+<div class="actions absolute bottom-4 w-10/12 self-center">
+  <%= link_to new_user_session_path, class: 'group rounded-lg mb-4 flex items-center bg-main p-3 justify-center border hover:border-main hover:bg-transparent' do %>
+    <span class="group-hover:text-main text-white uppercase font-semibold">Log In</span>
+  <% end %>
+  <%= link_to new_user_registration_path, class: 'group rounded-lg flex items-center bg-main p-3 justify-center border hover:border-main hover:bg-transparent' do %>
+    <span class="group-hover:text-main text-white uppercase font-semibold">Register</span>
+  <% end %>
+</div>
