@@ -128,7 +128,8 @@ Install this project with:
   npm install
 ```
 
-Create Database (Mandatory)
+Create Database 
+ - Modify config/database.yml line 6 with your postgres password
 
 ```
   rails db:create
